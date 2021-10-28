@@ -10,7 +10,7 @@ variable "list_example" {
   default = ["a", "b", "c"]
 }
 
-variable "lsit_numeric_example" {
+variable "list_numeric_example" {
   description = "An example of numeric list in Terraform"
   type = list(number)
   default = [ 1,2,3 ]
@@ -61,11 +61,6 @@ resource "aws_instance" "example" {
     #!/bin/bash 
       echo "Hola Mundo" > index.html
       nohup busybox httpd -f -p ${var.server_port} &
-
-        tags = {
-            Name = "terraform-example"
-        }
-      }
     EOF
 
   tags = {
