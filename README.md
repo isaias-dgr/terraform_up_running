@@ -9,4 +9,10 @@
 
 ## How to Manage Terraform State 🛣️
 
+ * 😆 Setup
+ * 😆 Secrets
+ * 😆 WorkSpace
+ * 😆 WorkSpace Files
+ * 😆 Remote States
+
 ## How to Create Reusable Infrastructura with Terraform Modules 🏭
