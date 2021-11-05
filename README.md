@@ -15,4 +15,6 @@
  * 😆 WorkSpace Files
  * 😆 Remote States
 
-## How to Create Reusable Infrastructura with Terraform Modules 🏭
+## How to Create Reusable Infrastructure with Terraform Modules 🏭
+
+ * 👾 Module Basics
