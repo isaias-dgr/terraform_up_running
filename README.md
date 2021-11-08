@@ -18,3 +18,4 @@
 ## How to Create Reusable Infrastructure with Terraform Modules 🏭
 
  * 👾 Module Basics
+ * 👾 Module Remote
